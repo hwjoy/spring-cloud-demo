@@ -11,7 +11,7 @@
 	<artifactId>eureka-server</artifactId>
 
 	<name>eureka-server</name>
-	<description>Eureka server project for Spring Boot</description>
+	<description>Eureka server project for Spring Cloud</description>
 
 	<properties>
 		<java.version>1.8</java.version>
