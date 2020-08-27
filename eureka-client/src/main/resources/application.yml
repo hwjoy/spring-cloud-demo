@@ -4,7 +4,7 @@ server:
 
 spring:
   application:
-    name: spring-boot-demo
+    name: eureka-client
 
 eureka:
   instance:

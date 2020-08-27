@@ -44,8 +44,8 @@
 	</build>
 
 	<modules>
-		<module>spring-boot-demo</module>
 		<module>eureka-server</module>
+		<module>eureka-client</module>
 	</modules>
 
 </project>
