@@ -48,6 +48,7 @@
 		<module>eureka-client</module>
 		<module>eureka-consumer</module>
 		<module>feign-consumer</module>
+		<module>feign-hystrix-consumer</module>
 	</modules>
 
 </project>
