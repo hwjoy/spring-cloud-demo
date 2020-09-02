@@ -50,6 +50,7 @@
 		<module>feign-consumer</module>
 		<module>feign-hystrix-consumer</module>
 		<module>hystrix-dashboard</module>
+		<module>zuul-server</module>
 	</modules>
 
 </project>
