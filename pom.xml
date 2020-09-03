@@ -51,6 +51,7 @@
 		<module>feign-hystrix-consumer</module>
 		<module>hystrix-dashboard</module>
 		<module>zuul-server</module>
+		<module>gateway-server</module>
 	</modules>
 
 </project>
