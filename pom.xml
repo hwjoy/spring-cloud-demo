@@ -52,6 +52,7 @@
 		<module>hystrix-dashboard</module>
 		<module>zuul-server</module>
 		<module>gateway-server</module>
+		<module>zipkin-client</module>
 	</modules>
 
 </project>

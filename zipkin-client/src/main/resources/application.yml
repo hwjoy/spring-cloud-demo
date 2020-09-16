@@ -1,0 +1,9 @@
+
+server:
+  port: 8280
+
+spring:
+  application:
+    name: zipkin-client
+  zipkin:
+    base-url: https://localhost:9411/
